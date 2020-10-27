@@ -11,7 +11,7 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 *En **negrita** aquellos con los que tengo mayor experiencia / en los que tengo mayor interés*
 
 ##### Programming - Programación
-- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" /> **C\#**
+- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> **C\#**
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" /> Java
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /> **Typescript**
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> Javascript
@@ -35,6 +35,7 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android (Java)
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> **Flutter**
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" /> **Unity**
+- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> WPF
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /> Drupal
 
 ##### Other - Otros
