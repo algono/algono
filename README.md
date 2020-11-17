@@ -1,5 +1,5 @@
 ### :uk: Hi there 👋, I am Alejandro Gómez
-My name is Alejandro, I am from Spain, and I am a Computer Science student at the [Polytechnic University of Valencia (UPV)](https://www.upv.es).
+My name is Alejandro, I am from Spain, and I am a Computer Science student at the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html).
 
 ### :es: Hola 👋, soy Alejandro Gómez
 Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es).
