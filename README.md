@@ -6,9 +6,9 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 
 ### Knowledge - Conocimientos
 #### Languages - Lenguajes
-*In **bold** the ones I have the most experience on / I have the most interest in*
+*In **bold** those in which I have the most experience and/or interest*
 
-*En **negrita** aquellos con los que tengo mayor experiencia / en los que tengo mayor interés*
+*En **negrita** aquellos en los que tengo mayor experiencia y/o interés*
 
 ##### Programming - Programación
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> **C\#**
