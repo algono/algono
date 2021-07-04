@@ -52,9 +52,13 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 <!--
 It only works for personal repos, and does not count organizations, so it is not that accurate (for now)
 Check out issue https://github.com/anuraghazra/github-readme-stats/issues/1
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algono)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<!--
+Update: Now it works, but only using a non-official API
+-->
+
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=algono&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links - Enlaces
 
