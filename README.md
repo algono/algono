@@ -43,6 +43,7 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 
 ### Other - Otros
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 
 ## My stats - Mis estadísticas
