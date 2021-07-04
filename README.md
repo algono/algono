@@ -41,7 +41,8 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 
 ##### Other - Otros
 - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trello.svg" /> **Trello**
-- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonalexa.svg" style="background-color:#00CAFF;" /> **Amazon Alexa**
+- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonalexa.svg" /> **Amazon Alexa**
+- <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /> **Docker**
 
 ### My stats - Mis estadísticas
 [![algono's github stats](https://github-readme-stats.vercel.app/api?username=algono&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
