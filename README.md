@@ -13,6 +13,7 @@ Me llamo Alejandro, soy de España, y estudio Ingeniería informática en la [Un
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
 [![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows)](https://docs.microsoft.com/dotnet/desktop/wpf)
 [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)](https://developer.amazon.com/alexa)
+[![Firebase](https://img.shields.io/badge/Firebase-D2A621?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![JavaFX](https://img.shields.io/badge/JavaFX-A5630B?style=flat-square&logo=java)
