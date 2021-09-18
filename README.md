@@ -37,7 +37,7 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 
 #### Markup
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-8BC34A?style=flat-square&logo=w3c)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
