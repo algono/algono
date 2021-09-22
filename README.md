@@ -41,7 +41,6 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-8BC34A?style=flat-square&logo=w3c)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 
 ### Other - Otros
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
