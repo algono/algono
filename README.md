@@ -27,8 +27,8 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 [![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/Java-A5630B?style=flat-square&logo=java)](https://www.java.com/)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)](https://dart.dev/)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
