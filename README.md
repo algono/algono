@@ -1,8 +1,8 @@
 # :uk: Hi there 👋, I am Alejandro Gómez
-My name is Alejandro, I am from Spain, and I am a **software engineer** who **graduated** in **computer science** at the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html).
+My name is Alejandro, I am from Spain, and I am a **software engineer** who **graduated** in **computer science** at the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html) (2021).
 
 # :es: Hola 👋, soy Alejandro Gómez
-Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenciado** en **ingeniería informática** en la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es).
+Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenciado** en **ingeniería informática** en la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es) (2021).
 
 ## Knowledge - Conocimientos
 
@@ -38,13 +38,12 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 #### Markup
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
-![RSS](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
-![XML](https://img.shields.io/badge/XML-8BC34A?style=flat-square&logo=w3c)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### Other - Otros
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/)
+[![Sonarqube](https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
 
 
 ## My stats - Mis estadísticas
