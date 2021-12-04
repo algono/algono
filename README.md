@@ -1,7 +1,7 @@
-# :uk: Hi there 👋, I am Alejandro Gómez
+# <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gb.svg" width="45" height="45"> Hi there :wave:, I am Alejandro Gómez
 My name is Alejandro, I am from Spain, and I am a **software engineer** who **graduated** in **computer science** at the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html) (2021).
 
-# :es: Hola 👋, soy Alejandro Gómez
+# <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg" width="45" height="45"> Hola :wave:, soy Alejandro Gómez
 Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenciado** en **ingeniería informática** en la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es) (2021).
 
 ## Knowledge - Conocimientos
