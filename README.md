@@ -61,6 +61,6 @@ Update: Now it works, but only using a non-official API
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=algono&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links - Enlaces
-
 [<img height="40" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/algono)
 [<img height="40" alt="gitlab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/algono)
+[<img height="40" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alejandro-g%C3%B3mez-no%C3%A9-bb4239224/)
