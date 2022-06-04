@@ -18,6 +18,7 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![JavaFX](https://img.shields.io/badge/JavaFX-A5630B?style=flat-square&logo=java)
 [![Android (Java)](https://img.shields.io/badge/Android%20%28Java%29-2EA965?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress)](https://wordpress.org/)
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal)](https://www.drupal.org/)
 
 ### Languages - Lenguajes
