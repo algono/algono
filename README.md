@@ -32,6 +32,7 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 #### Scripting
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&textColor=black&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/)
@@ -39,6 +40,8 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 #### Markup
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
 
 ### Other - Otros
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
