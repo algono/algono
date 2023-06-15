@@ -1,17 +1,21 @@
 # <img src="https://user-images.githubusercontent.com/29779422/144720480-9223d1dc-f8b7-40c5-a7a0-c404603602a3.png" height="24"> Hi there :wave:, I am Alejandro Gómez
-My name is Alejandro, I am from Spain, and I am a **software engineer** who **graduated** in **computer science** at the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html) (2021).
+My name is Alejandro, I am from Spain, and I am a **software engineer**. I am currently working at the research group [ITACA-SABIEN](http://www.sabien.upv.es/) from the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html). I have a **computer science degree** from the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html) (2021).
+
+Link to my CV (only in Spanish for now, English version soon): https://github.com/algono/curriculum-vitae/blob/1e8535911672ea69eae446f25ce3a76c1a15c4a6/out/curriculum-vitae.pdf
 
 # <img src="https://user-images.githubusercontent.com/29779422/144720507-df859a64-864c-4605-8e6c-057c53504965.png" height="32"> Hola :wave:, soy Alejandro Gómez
-Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenciado** en **ingeniería informática** en la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es) (2021).
+Me llamo Alejandro, soy de España, y soy un **ingeniero de software**. Actualmente trabajo en el grupo de investigación [ITACA-SABIEN](http://www.sabien.upv.es/) de la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es). Tengo el **grado** en **ingeniería informática** por la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es) (2021).
+
+Enlace a mi Currículum Vitae (CV): https://github.com/algono/curriculum-vitae/blob/1e8535911672ea69eae446f25ce3a76c1a15c4a6/out/curriculum-vitae.pdf
 
 ## Knowledge - Conocimientos
 
 ### Technologies - Tecnologías
 
+[![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows)](https://docs.microsoft.com/dotnet/desktop/wpf)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
-[![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows)](https://docs.microsoft.com/dotnet/desktop/wpf)
 [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=amazonalexa&logoColor=white)](https://developer.amazon.com/alexa)
 [![Firebase](https://img.shields.io/badge/Firebase-D2A621?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -29,10 +33,10 @@ Me llamo Alejandro, soy de España, y soy un **ingeniero de software**, **licenc
 [![Java](https://img.shields.io/badge/Java-A5630B?style=flat-square&logo=java)](https://www.java.com/)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)](https://dart.dev/)
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
-[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### Scripting
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&textColor=black&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/)
