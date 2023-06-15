@@ -1,12 +1,12 @@
 # <img src="https://user-images.githubusercontent.com/29779422/144720480-9223d1dc-f8b7-40c5-a7a0-c404603602a3.png" height="24"> Hi there :wave:, I am Alejandro Gómez
 My name is Alejandro, I am from Spain, and I am a **software engineer**. I am currently working at the research group [ITACA-SABIEN](http://www.sabien.upv.es/) from the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html). I have a **computer science degree** from the [Polytechnic University of Valencia (UPV)](https://www.upv.es/index-en.html) (2021).
 
-Link to my **CV** _(Curriculum Vitae)_ (only in Spanish for now, English version soon): https://github.com/algono/curriculum-vitae/blob/main/out/curriculum-vitae.pdf
+Link to my **CV** _(Curriculum Vitae)_ _(in English)_: https://github.com/algono/curriculum-vitae/blob/main/out/curriculum-vitae-english.pdf
 
 # <img src="https://user-images.githubusercontent.com/29779422/144720507-df859a64-864c-4605-8e6c-057c53504965.png" height="32"> Hola :wave:, soy Alejandro Gómez
 Me llamo Alejandro, soy de España, y soy un **ingeniero de software**. Actualmente trabajo en el grupo de investigación [ITACA-SABIEN](http://www.sabien.upv.es/) de la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es). Tengo el **grado** en **ingeniería informática** por la [Universidad Politécnica de Valencia (UPV)](https://www.upv.es) (2021).
 
-Enlace a mi **Currículum Vitae (CV)**: https://github.com/algono/curriculum-vitae/blob/main/out/curriculum-vitae.pdf
+Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algono/curriculum-vitae/blob/main/out/curriculum-vitae.pdf
 
 ## Knowledge - Conocimientos
 
