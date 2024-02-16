@@ -12,6 +12,7 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 
 ### Technologies - Tecnologías
 
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows)](https://docs.microsoft.com/dotnet/desktop/wpf)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
