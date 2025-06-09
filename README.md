@@ -54,21 +54,6 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/)
 [![Sonarqube](https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
 
-
-## My stats - Mis estadísticas
-[![algono's github stats](https://github-readme-stats.vercel.app/api?username=algono&show_icons=true&theme=gotham&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-It only works for personal repos, and does not count organizations, so it is not that accurate (for now)
-Check out issue https://github.com/anuraghazra/github-readme-stats/issues/1
--->
-
-<!--
-Update: Now it works, but only using a non-official API
--->
-
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=algono&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Links - Enlaces
 [<img height="40" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/algono)
 [<img height="40" alt="gitlab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/algono)
