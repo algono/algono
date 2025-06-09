@@ -14,15 +14,15 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://wordpress.org/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet)](https://docs.microsoft.com/dotnet/)
-[![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows)](https://docs.microsoft.com/dotnet/desktop/wpf)
+[![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTAgOTMuN2wxODMuNi0yNS4zdjE3Ny40SDBWOTMuN3ptMCAzMjQuNmwxODMuNiAyNS4zVjI2OC40SDB2MTQ5Ljl6bTIwMy44IDI4TDQ0OCA0ODBWMjY4LjRIMjAzLjh2MTc3Ljl6bTAtMzgwLjZ2MTgwLjFINDQ4VjMyTDIwMy44IDY1Ljd6Ii8+PC9zdmc+)](https://docs.microsoft.com/dotnet/desktop/wpf)
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-D2A621?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCBmaWxsPSIjZmZmIiBoZWlnaHQ9IjUxMiIgcng9IjE1JSIgd2lkdGg9IjUxMiIvPjxwYXRoIGQ9Im0yNTYgNjRhMTkyIDE5MiAwIDAgMCAtMjYgMzgydi0zOWMwLTExLTctMjEtMTctMjRhMTM0IDEzNCAwIDEgMSAxNzctMTIydjFhMTQxIDE0MSAwIDAgMSAwIDV2MWExMjYgMTI2IDAgMCAxIDAgMyAxMzAgMTMwIDAgMCAxIDAgNHYyYy0xOCAxMDgtMTU5IDE2OS0xNjAgMTY5YTE5NCAxOTQgMCAwIDAgMjYgMiAxOTIgMTkyIDAgMCAwIDAtMzg0IiBmaWxsPSIjMDBjYWZmIi8+PC9zdmc+)](https://developer.amazon.com/alexa)
+[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCBmaWxsPSIjZmZmIiBoZWlnaHQ9IjUxMiIgcng9IjE1JSIgd2lkdGg9IjUxMiIvPjxwYXRoIGQ9Im0yNTYgNjRhMTkyIDE5MiAwIDAgMCAtMjYgMzgydi0zOWMwLTExLTctMjEtMTctMjRhMTM0IDEzNCAwIDEgMSAxNzctMTIydjFhMTQxIDE0MSAwIDAgMSAwIDV2MWExMjYgMTI2IDAgMCAxIDAgMyAxMzAgMTMwIDAgMCAxIDAgNHYyYy0xOCAxMDgtMTU5IDE2OS0xNjAgMTY5YTE5NCAxOTQgMCAwIDAgMjYgMiAxOTIgMTkyIDAgMCAwIDAtMzg0IiBmaWxsPSIjMDBjYWZmIi8+PC9zdmc+)](https://developer.amazon.com/alexa)
 
 ### Languages - Lenguajes
 
@@ -42,7 +42,7 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 
 #### Markup
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)](https://developer.mozilla.org/docs/Web/CSS)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
 
