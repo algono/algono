@@ -47,9 +47,9 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
 
 ### Other - Otros
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMwLjg2NSAzLjQ0OCAyNC4yODIuMjgxYTEuOTkgMS45OSAwIDAgMC0yLjI3Ni4zODVMOS4zOTcgMTIuMTcxIDMuOTAyIDguMDA0YTEuMzMgMS4zMyAwIDAgMC0xLjcwMy4wNzNMLjQzOSA5LjY4MWExLjMzIDEuMzMgMCAwIDAtLjAwNSAxLjk2OUw1LjIgMTUuOTk5LjQzNCAyMC4zNDhhMS4zMyAxLjMzIDAgMCAwIC4wMDUgMS45NjlsMS43NiAxLjYwNGExLjMzIDEuMzMgMCAwIDAgMS43MDMuMDczbDUuNDk1LTQuMTcyIDEyLjYxNSAxMS41MWExLjk4MiAxLjk4MiAwIDAgMCAyLjI3MS4zODVsNi41ODktMy4xNzJhMS45OTMgMS45OTMgMCAwIDAgMS4xMy0xLjgwMlY1LjI0OGMwLS43NjYtLjQ0My0xLjQ2OS0xLjEzNS0xLjgwMnptLTYuODYgMTkuODE4TDE0LjQzMiAxNmw5LjU3My03LjI2NnoiLz48L3N2Zz4=)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0ibTE3IDguNS00Ljc1IDMuODJMMTcgMTZ6TTQuNyAxOC40IDIgMTYuN3YtOWwzLTEgNC4zIDMuMzNMMTggMmw0IDIuNVYyMGwtNSAyLTcuNjYtNy4zNHpNNSAxNGwxLjg2LTEuNzJMNSAxMC41eiIvPjwvc3ZnPg==)](https://visualstudio.microsoft.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
 
 ## Links - Enlaces
 [<img height="40" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/algono)
