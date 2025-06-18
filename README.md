@@ -37,14 +37,14 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell)](https://www.haskell.org/)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Scripting
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&textColor=black&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/)
-
 #### Markup
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)](https://developer.mozilla.org/docs/Web/CSS)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)](https://www.latex-project.org/)
+
+#### Scripting
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&textColor=black&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/)
 
 ### Other - Otros
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTMwLjg2NSAzLjQ0OCAyNC4yODIuMjgxYTEuOTkgMS45OSAwIDAgMC0yLjI3Ni4zODVMOS4zOTcgMTIuMTcxIDMuOTAyIDguMDA0YTEuMzMgMS4zMyAwIDAgMC0xLjcwMy4wNzNMLjQzOSA5LjY4MWExLjMzIDEuMzMgMCAwIDAtLjAwNSAxLjk2OUw1LjIgMTUuOTk5LjQzNCAyMC4zNDhhMS4zMyAxLjMzIDAgMCAwIC4wMDUgMS45NjlsMS43NiAxLjYwNGExLjMzIDEuMzMgMCAwIDAgMS43MDMuMDczbDUuNDk1LTQuMTcyIDEyLjYxNSAxMS41MWExLjk4MiAxLjk4MiAwIDAgMCAyLjI3MS4zODVsNi41ODktMy4xNzJhMS45OTMgMS45OTMgMCAwIDAgMS4xMy0xLjgwMlY1LjI0OGMwLS43NjYtLjQ0My0xLjQ2OS0xLjEzNS0xLjgwMnptLTYuODYgMTkuODE4TDE0LjQzMiAxNmw5LjU3My03LjI2NnoiLz48L3N2Zz4=)](https://code.visualstudio.com/)
