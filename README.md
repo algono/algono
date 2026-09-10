@@ -19,9 +19,9 @@ Enlace a mi **Currículum Vitae (CV)** _(en Español)_: https://github.com/algon
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-D2A621?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCBmaWxsPSIjZmZmIiBoZWlnaHQ9IjUxMiIgcng9IjE1JSIgd2lkdGg9IjUxMiIvPjxwYXRoIGQ9Im0yNTYgNjRhMTkyIDE5MiAwIDAgMCAtMjYgMzgydi0zOWMwLTExLTctMjEtMTctMjRhMTM0IDEzNCAwIDEgMSAxNzctMTIydjFhMTQxIDE0MSAwIDAgMSAwIDV2MWExMjYgMTI2IDAgMCAxIDAgMyAxMzAgMTMwIDAgMCAxIDAgNHYyYy0xOCAxMDgtMTU5IDE2OS0xNjAgMTY5YTE5NCAxOTQgMCAwIDAgMjYgMiAxOTIgMTkyIDAgMCAwIDAtMzg0IiBmaWxsPSIjMDBjYWZmIi8+PC9zdmc+)](https://developer.amazon.com/alexa)
 
